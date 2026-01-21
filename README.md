@@ -41,24 +41,33 @@ It helps users manage daily tasks by adding, completing, and deleting todos.
 ![Task Completed](Screenshots/task-completed.png)
 ![Task deleted](Screenshots/task-deleted.png)
 
+---
+
 ## 📂 Project Structure
 
-````
+```
 │── index.html
 │── style.css
 │── script.js
 │── screenshots/
-│── README.md```
+│── README.md
+```
+
+---
 
 ## ▶️ How to Run Locally
 
 1. Clone the repository
    ```bash
    git clone https://github.com/student-Sayan75/Todo-List.git
-````
+   ```
+
+```
+---
 
 🔮 Future Improvements
 
 - Add due dates
 - Task categories
 - Dark mode
+```
