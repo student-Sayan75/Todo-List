@@ -7,7 +7,7 @@ It helps users manage daily tasks by adding, completing, and deleting todos.
 
 ## 🚀 Live Demo
 
-🔗 https://your-username.github.io/todo-list/
+🔗 https://student-sayan75.github.io/Todo-List/
 
 ---
 
