@@ -62,12 +62,10 @@ It helps users manage daily tasks by adding, completing, and deleting todos.
    git clone https://github.com/student-Sayan75/Todo-List.git
    ```
 
-```
 ---
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 - Add due dates
 - Task categories
 - Dark mode
-```
