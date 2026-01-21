@@ -13,7 +13,7 @@ It helps users manage daily tasks by adding, completing, and deleting todos.
 
 ## 🎥 Demo Video
 
-▶️ https://youtu.be/your-video-link
+▶️ https://www.youtube.com/watch?v=AJUVWtGnum8
 
 ---
 
@@ -43,26 +43,22 @@ It helps users manage daily tasks by adding, completing, and deleting todos.
 
 ## 📂 Project Structure
 
+````
 │── index.html
 │── style.css
 │── script.js
 │── screenshots/
-│── README.md
+│── README.md```
 
 ## ▶️ How to Run Locally
 
 1. Clone the repository
    ```bash
    git clone https://github.com/student-Sayan75/Todo-List.git
-   ```
+````
 
 🔮 Future Improvements
-Add due dates
-Task categories
-Dark mode
 
-🚀 Live Demo:
-https://your-username.github.io/todo-list/
-
-Application preview video link
-https://www.youtube.com/watch?v=AJUVWtGnum8
+- Add due dates
+- Task categories
+- Dark mode
